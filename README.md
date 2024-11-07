@@ -32,7 +32,7 @@ o	Added Coffee Type Name and Roast Type Name Column so full name of product and 
 
 o	Added and populated Loyalty Card information using XLOOKUP.
 
-o	Converted data types into proper format for easy of use in the dashboard.
+o	Converted data types into proper format for ease of use in the dashboard.
 
 # 3. Set Up Pivot Tables
 
